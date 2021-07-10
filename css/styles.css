@@ -1,3 +1,7 @@
+h1 {
+    color: red;
+}
+
 .gallery {
     display: grid;
     grid-gap: 10px;
