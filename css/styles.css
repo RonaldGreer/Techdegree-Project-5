@@ -5,4 +5,8 @@
     grid-gap: 10px;
     grid-template-columns: 150px 150px 150px 150px;
     grid-template-rows: 150px;
-  }
+}
+
+.thumbnail {
+    color: #000;
+}
