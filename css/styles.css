@@ -1,8 +1,11 @@
 
 .gallery {
-    max-width: 600px;
+    margin-left: 20px;
+    margin-right: 20px;
+    max-width: 1000px;
     display: grid;
-    grid-gap: 10px;
-    grid-template-columns: 150px 150px 150px 150px;
-    grid-template-rows: 150px;
+    grid-column-gap: 10px;
+    grid-row-gap: 10px;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(3, 1fr);
 }
