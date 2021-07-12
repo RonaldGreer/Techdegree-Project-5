@@ -16,7 +16,7 @@ input {
 }
 
 input[placeholder] {
-    padding-right: 75px;
+    padding-right: 75px; 
 }
 
 /*the following code is a command i found whilst reading through the unit-05 slack community, i believe it was from @Brian Jensen (he/him) */
